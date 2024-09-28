@@ -1,0 +1,47 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+TestResults/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+*.designer.cs
+Generated\
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.log
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio specific
+.vs/
+.vscode/
+.vscode/*
+
+# Rider specific
+.idea/
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
